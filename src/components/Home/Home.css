@@ -1,0 +1,13 @@
+.h1{
+    text-align: center;
+    background-color: #eca1a6;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.post:nth-child(odd) {
+    background: #d6cbd3;
+  }
+.post:nth-child(even) {
+    background: #bdcebe;
+  }

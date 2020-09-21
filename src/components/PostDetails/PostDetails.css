@@ -1,0 +1,12 @@
+.post-detail-div {
+    margin: 20px;
+    padding: 20px;
+    background-color:#bdcebe;
+    border-radius: 10px;
+}
+.comment-div {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #d6cbd3;
+}
